@@ -1,6 +1,6 @@
 # IOS_Calculator
-https://joemre.github.io/IOS_Calculator/
-## https://joemre.github.io/Netflix-Work/
+
+## https://joemre.github.io/IOS_Calculator/
 
 ### Technologies Used
 -HTML, CSS
